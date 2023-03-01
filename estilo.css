@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#novocadastro a {
+    text-decoration: none;
+}
+
+h1 {
+    font-family: Poppins;
+    font-size: 26px;
+}
+
+#centrocadastro {
+    text-align: center;
+}
